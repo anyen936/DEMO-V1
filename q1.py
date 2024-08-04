@@ -14,3 +14,5 @@ for w in range(5):
             print("猜錯了 ~~~~")
 if x != y:
     print(f"答案為:{x}")
+else:
+    print("以上皆非")
